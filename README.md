@@ -1,4 +1,5 @@
 # AI Town 🏠💻💌
+AI Simulation of Thursday Nights in AI - https://www.outsetcapital.com/thursday-nights-in-ai
 
 [Live Demo](https://www.convex.dev/ai-town)
 
